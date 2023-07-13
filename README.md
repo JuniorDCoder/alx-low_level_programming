@@ -1,2 +1,2 @@
-#!/bin./bash
-Beginning my journey into C programming for embedded systems and writing OS
+#!/bin/bash
+First Steps in C programming
